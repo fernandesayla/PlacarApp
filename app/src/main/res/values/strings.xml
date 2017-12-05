@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacarApp</string>
+    <string name="textViewTitulo">Times</string>
+    <string name="textViewDev">Desenvolvido por Ayla Fernandes</string>
+    <string name="emptyTimeVisitante">Informe o Time Visitante</string>
+    <string name="emptyTimeCasa">"Informe o Time da Casa"</string>
+
+
+</resources>
