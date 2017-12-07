@@ -5,5 +5,5 @@
     <string name="emptyTimeVisitante">Visitor teams is empty</string>
     <string name="emptyTimeCasa">Home teams is empty</string>
     <string name="placarInicial">0</string>
-
+    <string name="botaoGol">Point</string>
 </resources>

@@ -54,11 +54,11 @@
         android:layout_height="wrap_content">
         <Button
             style="@style/placarLayout"
-            android:text="GOL"
+            android:text="@string/botaoGol"
             android:onClick="golCasa"/>
         <Button
             style="@style/placarLayout"
-            android:text="GOL"
+            android:text="@string/botaoGol"
             android:onClick="golVisitante"/>
     </LinearLayout>
 

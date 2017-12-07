@@ -6,4 +6,5 @@
     <string name="placarInicial">0</string>
     <string name="emptyTimeVisitante">Informe o Time Visitante</string>
     <string name="emptyTimeCasa">Informe o Time da Casa</string>
+    <string name="botaoGol">Gol</string>
 </resources>
